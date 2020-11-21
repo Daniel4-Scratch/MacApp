@@ -1,0 +1,2 @@
+# MacApp
+A simple window
